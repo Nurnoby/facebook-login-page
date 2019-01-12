@@ -28,6 +28,7 @@ header{
 	float:right;
 	/*border:1px solid green;*/
 	overflow: hidden;
+	margin-right: 6px;
 
 }
 .login .email{
